@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades I02 Generics", "Entidades I02 Generics\Entidades I02 Generics.csproj", "{EC52D0CB-0FDE-45F6-B479-2DF6F9118BAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola Contabilidad", "Consola Contabilidad\Consola Contabilidad.csproj", "{BCD2D69D-FD44-4D6B-AB76-6768907C7049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC52D0CB-0FDE-45F6-B479-2DF6F9118BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC52D0CB-0FDE-45F6-B479-2DF6F9118BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC52D0CB-0FDE-45F6-B479-2DF6F9118BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC52D0CB-0FDE-45F6-B479-2DF6F9118BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD2D69D-FD44-4D6B-AB76-6768907C7049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD2D69D-FD44-4D6B-AB76-6768907C7049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD2D69D-FD44-4D6B-AB76-6768907C7049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD2D69D-FD44-4D6B-AB76-6768907C7049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1431DDD9-2A19-44A8-80D8-BE4E380D4057}
+	EndGlobalSection
+EndGlobal

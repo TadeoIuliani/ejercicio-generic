@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Entidades I02 Generics/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Entidades I02 Generics.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidades I02 Generics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entidades I02 Generics/1.0.0": {
+      "type": "project",
+      "path": "../Entidades I02 Generics/Entidades I02 Generics.csproj",
+      "msbuildProject": "../Entidades I02 Generics/Entidades I02 Generics.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Entidades I02 Generics >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Ejercicios C# UTN\\Tipos Genericos\\I02 Generics\\Consola Contabilidad\\Consola Contabilidad.csproj",
+      "projectName": "Consola Contabilidad",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Ejercicios C# UTN\\Tipos Genericos\\I02 Generics\\Consola Contabilidad\\Consola Contabilidad.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\Ejercicios C# UTN\\Tipos Genericos\\I02 Generics\\Consola Contabilidad\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Usuario\\Desktop\\Ejercicios C# UTN\\Tipos Genericos\\I02 Generics\\Entidades I02 Generics\\Entidades I02 Generics.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\Ejercicios C# UTN\\Tipos Genericos\\I02 Generics\\Entidades I02 Generics\\Entidades I02 Generics.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
